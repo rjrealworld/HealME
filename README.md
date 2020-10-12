@@ -19,12 +19,12 @@ Ze is a student who is attending online classes from 9 AM to 4 PM, Ze is partici
   - Figma
   - Photoshop
 ## Screenshots
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_135928.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_135939.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_135933.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_140117.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_140123.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/7f5970aa-4f8b-4559-af50-29deca292a7b.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_104731.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_125603.jpg?raw=250x)
-![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_125610.jpg?raw=250x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_135928.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_135939.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_135933.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_140117.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_140123.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/7f5970aa-4f8b-4559-af50-29deca292a7b.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_104731.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_125603.jpg?raw=50x)
+![](https://github.com/rjrealworld/HealME/blob/master/Demo/Screenshot_20201011_125610.jpg?raw=50x)
